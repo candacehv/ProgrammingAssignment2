@@ -48,7 +48,7 @@ cacheSolve <- function(x, ...) {
 
 
 
-# Steps to text
+# Testing
 # m1 <- matrix(c(1/2, -1/4, -1, 3/4), nrow = 2, ncol = 2)
 # 
 # myMatrix <- makeCacheMatrix(m1)
